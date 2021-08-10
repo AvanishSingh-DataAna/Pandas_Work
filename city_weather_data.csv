@@ -1,0 +1,13 @@
+day,city,temprature,windspeed,event
+01-01-2021,delhi,32,6,Rain
+02-01-2021,delhi,36,7,Sunny
+03-01-2021,delhi,28,12,Snow
+04-01-2021,delhi,33,7,Sunny
+05-01-2021,mumbai,80,5,Sunny
+06-01-2021,mumbai,85,12,Fog
+07-01-2021,mumbai,87,15,Fog
+08-01-2021,mumbai,92,5,Rain
+09-01-2021,chennai,45,20,Sunny
+10-01-2021,chennai,50,18,Cloudy
+11-01-2021,chennai,54,8,Cloudy
+12-01-2021,chennai,42,10,Cloudy
